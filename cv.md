@@ -43,12 +43,19 @@ In 2020 finished RS Polish, have certificat.
 Francisk Skorina Gomel State University, economcs theory and world economy. Have PhD in economic.
 
 Online courses of HTML, CSS, Java, JavaScript; 
+
 RS Polish 2020;
+
 JavaScript https://learn.javascript.ru/
+
 Selfaducation: different artikles, books.
 
 ## Languages
+
 English - A2
+
 Russian/Belarussian - native
+
 Ukrainian - A1
+
 Polish - В1
