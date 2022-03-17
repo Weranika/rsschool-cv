@@ -1,3 +1,6 @@
+html {
+  margin: 20px;
+}
 h1 {
   color: rgb(19, 19, 77);
 }
@@ -6,6 +9,6 @@ h2 {
   color: rgb(7, 41, 92);
 }
 .info {
-  padding: 20px;
+  padding-top: 25px;
   font-size: 16xp;
 }
